@@ -6,8 +6,9 @@
 
 <h2>🚀 Demo</h2>
 
-[Frontend 💻](book-store-berzocde.vercel.app) <br/>
-[Backend🚧](book-store-berzcode-api.vercel.app/books)
+[Frontend💻](https://book-store-berzocde.vercel.app)
+ <br/>
+[Backend🚧](https://book-store-berzcode-api.vercel.app/books)
 
 <h2>Project Screenshots:</h2>
 
