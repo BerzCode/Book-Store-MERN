@@ -12,13 +12,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/x2qj501rv39w.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/x2qj501rv39w.png" alt="project-screenshot" width="900" height="400/">
 
-<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/kysg5bd7s5lb.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/kysg5bd7s5lb.png" alt="project-screenshot" width="600" height="400/">
 
-<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/cpxtguemruuy.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/cpxtguemruuy.png" alt="project-screenshot" width="800" height="400/">
 
-<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/k1wfvplm0gs6.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://black_hole-3kf-1-n1489383.deta.app/api/photo/k1wfvplm0gs6.png" alt="project-screenshot" width="800" height="400/">
 
   
   
